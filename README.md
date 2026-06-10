@@ -1,3 +1,2 @@
-- 👋 Hi @Hsyka
-- 🌱 I’m currently learning.
-- 📫 How to reach me: hyoo24@gmu.edu
+- 👋 Hi 
+- 🌱 I’m always learning.
